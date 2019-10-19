@@ -1,1 +1,9 @@
+Sales
+I.        Mon-Sat 09:00-18:00
+II.        Sun          09:00-17:00
+III.        PH            10:00-17:00
+
+Service
+I.        Mon-Sat 08:45-17:45
+II.        Sun          09:00-17:00
 III.        PH            Closed
